@@ -1,0 +1,4 @@
+﻿  game.c
+C:\Users\18377\source\repos\three sub-chesses\three sub-chesses\game.c(42,27): warning C4474: printf: 格式字符串中传递的参数太多
+C:\Users\18377\source\repos\three sub-chesses\three sub-chesses\game.c(42,27): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  three sub-chesses.vcxproj -> C:\Users\18377\source\repos\three sub-chesses\x64\Debug\three sub-chesses.exe
