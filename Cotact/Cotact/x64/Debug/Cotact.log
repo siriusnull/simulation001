@@ -1,0 +1,8 @@
+﻿  Contact.c
+C:\Users\18377\source\repos\Cotact\Cotact\Contact.c(24,12): warning C4133: “=”: 从“Contact *”到“PeopInfo *”的类型不兼容
+C:\Users\18377\source\repos\Cotact\Cotact\Contact.c(38,11): warning C4098: “LoadContact”:“void”函数返回值
+C:\Users\18377\source\repos\Cotact\Cotact\Contact.c(59,11): warning C4133: “=”: 从“Contact *”到“PeopInfo *”的类型不兼容
+C:\Users\18377\source\repos\Cotact\Cotact\Contact.c(63,11): warning C4098: “InitContact”:“void”函数返回值
+C:\Users\18377\source\repos\Cotact\Cotact\Contact.c(204,20): warning C4028: 形参 1 与声明不同
+C:\Users\18377\source\repos\Cotact\Cotact\Contact.c(210,11): warning C4098: “Save”:“void”函数返回值
+  Cotact.vcxproj -> C:\Users\18377\source\repos\Cotact\x64\Debug\Cotact.exe
